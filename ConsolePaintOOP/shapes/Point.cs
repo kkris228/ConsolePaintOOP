@@ -1,6 +1,4 @@
-﻿using System.Drawing;
-
-namespace ConsolePaint.Shapes
+﻿namespace ConsolePaintOOP.Shapes
 {
     public class Point : Shape
     {

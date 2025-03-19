@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConsolePaintOOP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+42c4779a18089e0a9fb101a869a06bb7f5f9ceee")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+91215b042c9145b788331c15d8145fc472ef24de")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConsolePaintOOP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConsolePaintOOP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

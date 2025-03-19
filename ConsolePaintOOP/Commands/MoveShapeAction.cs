@@ -1,4 +1,4 @@
-﻿namespace ConsolePaint.Commands
+﻿namespace ConsolePaintOOP.Commands
 {
     public class MoveShapeAction(ICanvas canvas, Shape shape, int dx, int dy) : IUndoableAction
     {

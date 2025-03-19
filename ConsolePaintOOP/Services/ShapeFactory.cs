@@ -1,6 +1,6 @@
-﻿using ConsolePaint.Shapes;
+﻿using ConsolePaintOOP.Shapes;
 
-namespace ConsolePaint.Services
+namespace ConsolePaintOOP.Services
 {
     public static class ShapeFactory
     {

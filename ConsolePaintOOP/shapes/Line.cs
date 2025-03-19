@@ -1,4 +1,4 @@
-﻿namespace ConsolePaint.Shapes
+﻿namespace ConsolePaintOOP.Shapes
 {
     public class Line : Shape
     {

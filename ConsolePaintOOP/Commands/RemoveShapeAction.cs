@@ -1,7 +1,4 @@
-﻿using ConsolePaint.Shapes;
-using ConsolePaint;
-
-namespace ConsolePaint.Commands
+﻿namespace ConsolePaintOOP.Commands
 {
     public class RemoveShapeAction(ICanvas canvas, Shape shape) : IUndoableAction
     {

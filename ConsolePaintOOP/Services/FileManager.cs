@@ -1,7 +1,7 @@
 ﻿using System.Text.Json;
 using System.Text.Json.Serialization;
 
-namespace ConsolePaint.Services
+namespace ConsolePaintOOP.Services
 {
     public static class FileManager
     {

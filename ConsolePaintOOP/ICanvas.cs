@@ -1,4 +1,4 @@
-﻿namespace ConsolePaint
+﻿namespace ConsolePaintOOP
 {
     public interface ICanvas
     {

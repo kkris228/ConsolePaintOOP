@@ -1,7 +1,6 @@
-﻿using ConsolePaint.Services;
-using System.Globalization;
+﻿using ConsolePaintOOP.Services;
 
-namespace ConsolePaint.Terminal
+namespace ConsolePaintOOP.Terminal
 {
     public partial class Terminal
     {

@@ -1,12 +1,17 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace ConsolePaintOOP.Commands
+﻿namespace ConsolePaintOOP.Commands
 {
-    internal class AddShapeAction
+    public class AddShapeAction(ICanvas canvas, Shape shape) : IUndoableAction
     {
+        public void Execute()
+        {
+            canvas.AddShape(shape);
+            canvas.RedrawAllShapes();
+        }
+
+        public void Undo()
+        {
+            canvas.RemoveShape(shape);
+            canvas.RedrawAllShapes();
+        }
     }
 }
