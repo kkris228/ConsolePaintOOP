@@ -5,5 +5,6 @@ Main features of project:
 3) Filing a background of figures
 4) Moving provided figures with a frame updation
 5) undo/redo options
-6) Loading and saving canvas to json file 
+6) Loading and saving canvas to json file
+   
 ![image](https://github.com/user-attachments/assets/2bf46347-e92c-4c69-8600-7fd5f660a00e)
